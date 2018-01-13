@@ -34,7 +34,7 @@ p {
     color: #333;
 }
 ul, li {
-    font-size: default;
+    font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 footer {
