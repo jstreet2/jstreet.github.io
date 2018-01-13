@@ -24,7 +24,6 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
@@ -33,11 +32,8 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-li {
+ul, li {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 0.5em;
-    line-height: 1.4em;
-    color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
